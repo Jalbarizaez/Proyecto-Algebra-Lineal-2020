@@ -1,0 +1,10 @@
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\bin\Debug\Proyecto Algebra Lineal.exe.config
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\bin\Debug\Proyecto Algebra Lineal.exe
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\bin\Debug\Proyecto Algebra Lineal.pdb
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto Algebra Lineal.csprojAssemblyReference.cache
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto_Algebra_Lineal.Form1.resources
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto_Algebra_Lineal.Properties.Resources.resources
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto Algebra Lineal.csproj.GenerateResource.cache
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto Algebra Lineal.csproj.CoreCompileInputs.cache
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto Algebra Lineal.exe
+C:\Users\jealb\source\repos\Proyecto Algebra Lineal\Proyecto Algebra Lineal\obj\Debug\Proyecto Algebra Lineal.pdb
